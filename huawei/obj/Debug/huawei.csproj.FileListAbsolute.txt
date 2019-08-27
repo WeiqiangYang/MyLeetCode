@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\huawei\bin\Debug\huawei.exe.config
+C:\Users\Administrator\source\repos\ListNode\huawei\bin\Debug\huawei.exe
+C:\Users\Administrator\source\repos\ListNode\huawei\bin\Debug\huawei.pdb
+C:\Users\Administrator\source\repos\ListNode\huawei\obj\Debug\huawei.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\huawei\obj\Debug\huawei.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\huawei\obj\Debug\huawei.exe
+C:\Users\Administrator\source\repos\ListNode\huawei\obj\Debug\huawei.pdb

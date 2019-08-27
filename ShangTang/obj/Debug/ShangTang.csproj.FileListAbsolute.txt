@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\ShangTang\bin\Debug\ShangTang.exe.config
+C:\Users\Administrator\source\repos\ListNode\ShangTang\bin\Debug\ShangTang.exe
+C:\Users\Administrator\source\repos\ListNode\ShangTang\bin\Debug\ShangTang.pdb
+C:\Users\Administrator\source\repos\ListNode\ShangTang\obj\Debug\ShangTang.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\ShangTang\obj\Debug\ShangTang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\ShangTang\obj\Debug\ShangTang.exe
+C:\Users\Administrator\source\repos\ListNode\ShangTang\obj\Debug\ShangTang.pdb

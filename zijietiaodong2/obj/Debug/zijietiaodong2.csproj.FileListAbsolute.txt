@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\bin\Debug\zijietiaodong2.exe.config
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\bin\Debug\zijietiaodong2.exe
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\bin\Debug\zijietiaodong2.pdb
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\obj\Debug\zijietiaodong2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\obj\Debug\zijietiaodong2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\obj\Debug\zijietiaodong2.exe
+C:\Users\Administrator\source\repos\ListNode\zijietiaodong2\obj\Debug\zijietiaodong2.pdb

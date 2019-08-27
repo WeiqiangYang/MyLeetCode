@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\bin\Debug\GraphAndTopological.exe.config
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\bin\Debug\GraphAndTopological.exe
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\bin\Debug\GraphAndTopological.pdb
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\obj\Debug\GraphAndTopological.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\obj\Debug\GraphAndTopological.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\obj\Debug\GraphAndTopological.exe
+C:\Users\Administrator\source\repos\ListNode\GraphAndTopological\obj\Debug\GraphAndTopological.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\obj\Debug\ChinaDianXin.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\obj\Debug\ChinaDianXin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\bin\Debug\ChinaDianXin.exe.config
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\bin\Debug\ChinaDianXin.exe
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\bin\Debug\ChinaDianXin.pdb
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\obj\Debug\ChinaDianXin.exe
+C:\Users\Administrator\source\repos\ListNode\ChinaDianXin\obj\Debug\ChinaDianXin.pdb

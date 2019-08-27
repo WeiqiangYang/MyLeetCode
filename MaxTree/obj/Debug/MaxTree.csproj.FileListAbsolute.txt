@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\MaxTree\bin\Debug\MaxTree.exe.config
+C:\Users\Administrator\source\repos\ListNode\MaxTree\bin\Debug\MaxTree.exe
+C:\Users\Administrator\source\repos\ListNode\MaxTree\bin\Debug\MaxTree.pdb
+C:\Users\Administrator\source\repos\ListNode\MaxTree\obj\Debug\MaxTree.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\MaxTree\obj\Debug\MaxTree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\MaxTree\obj\Debug\MaxTree.exe
+C:\Users\Administrator\source\repos\ListNode\MaxTree\obj\Debug\MaxTree.pdb

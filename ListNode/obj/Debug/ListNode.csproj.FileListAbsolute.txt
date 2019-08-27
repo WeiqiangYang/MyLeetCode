@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\ListNode\bin\Debug\ListNode.exe.config
+C:\Users\Administrator\source\repos\ListNode\ListNode\bin\Debug\ListNode.exe
+C:\Users\Administrator\source\repos\ListNode\ListNode\bin\Debug\ListNode.pdb
+C:\Users\Administrator\source\repos\ListNode\ListNode\obj\Debug\ListNode.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\ListNode\obj\Debug\ListNode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\ListNode\obj\Debug\ListNode.exe
+C:\Users\Administrator\source\repos\ListNode\ListNode\obj\Debug\ListNode.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe.config
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\bin\Debug\ConsoleApp1test.pdb
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\obj\Debug\ConsoleApp1test.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\obj\Debug\ConsoleApp1test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\obj\Debug\ConsoleApp1test.exe
+C:\Users\Administrator\source\repos\ListNode\ConsoleApp1test\obj\Debug\ConsoleApp1test.pdb

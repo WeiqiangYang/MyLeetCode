@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\bin\Debug\zhaoshangyinhang1.exe.config
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\bin\Debug\zhaoshangyinhang1.exe
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\bin\Debug\zhaoshangyinhang1.pdb
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\obj\Debug\zhaoshangyinhang1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\obj\Debug\zhaoshangyinhang1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\obj\Debug\zhaoshangyinhang1.exe
+C:\Users\Administrator\source\repos\ListNode\zhaoshangyinhang1\obj\Debug\zhaoshangyinhang1.pdb
